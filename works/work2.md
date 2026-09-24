@@ -1,7 +1,7 @@
 # 第2次作業(4%)
-- 學號：(請務必填寫)
-- 姓名：(請務必填寫)
-
+- 學號：11515124
+- 姓名：黃晧寧
+- 信箱：huanghaoning947@gmail.com
 ## 作業目標
 1. VSCode安裝：🔗[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 2. VSCode Extension安裝：
@@ -18,8 +18,8 @@
 4. 在VSCode上修改/WebSpec_學號/works/work2.md
    1. 選擇資料夾(WebSpec_學號)中的/works/work2.md檔案：
    2. 修改以下欄位
-      1. 學號：(開頭不含s)
-      2. 姓名：(請填寫真實姓名)
+      1. 學號：11515124
+      2. 姓名：黃晧寧
    3. 儲存檔案
    4. 在VSCode上提交及推送
       1. 版本說明：⚠️(必填)
