@@ -1,6 +1,7 @@
 # 第4次作業(4%)
-- 學號：(請務必填寫)
-- 姓名：(請務必填寫)
+- 學號：11515124
+- 姓名：黃晧寧
+- 信箱:huanghaoning947@gmail.com
 
 ## 作業目標
 1. VSCode複製GitHub上2個儲存庫Repo
@@ -33,9 +34,9 @@
    
 ## 評分方式
 - 檢查項目：完成後請打勾
-    - [ ] 在VSCode上修改/WebSpec_學號/works/work4.md：填寫學號、姓名，並同步於在GitHub上
-    - [ ] 在VSCode上複製/WebSpec_學號/specs/onepage.md：修改各項內容後，並同步於在GitHub上
-    - [ ] 在VSCode使用AI工具以onepage.md生成/WebPage_學號/onepage/index.html網頁，並同步於在GitHub上
-    - [ ] 在GitHub上確認以上檔案是否完全同步內容
+    - [x] 在VSCode上修改/WebSpec_學號/works/work4.md：填寫學號、姓名，並同步於在GitHub上
+    - [x] 在VSCode上複製/WebSpec_學號/specs/onepage.md：修改各項內容後，並同步於在GitHub上
+    - [x] 在VSCode使用AI工具以onepage.md生成/WebPage_學號/onepage/index.html網頁，並同步於在GitHub上
+    - [x] 在GitHub上確認以上檔案是否完全同步內容
 > [!important]
 > 請於上課時完成，若未到課同學，請於下次上課(**第5週**)前完成
